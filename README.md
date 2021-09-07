@@ -40,7 +40,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-232F7E?style=flat-square&logo=heroku&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure&logoColor=white)
 
 <!-------------------------------------------------------------Licenses & Certification	---------------------------------------->
 <h2>Licenses & Certifications</h2>
