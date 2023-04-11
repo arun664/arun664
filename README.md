@@ -11,7 +11,6 @@
 <div align="center">
 
 [![Twitter Link](https://img.shields.io/twitter/follow/arun664__?color=1DA1F2&label=%40arun664__&logo=Twitter&style=flat)](https://twitter.com/arun664__)
-[![Dev.to link](https://img.shields.io/badge/dev.to/arun664%20-black.svg?&style=flat&logo=dev.to&logoColor=white)](https://dev.to/arun664)
 [![LinkedIn Link](https://img.shields.io/badge/linkedin/in/arun664%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/arun664/)
 [![Instagram Link](https://img.shields.io/badge/instagram.com/arun664__%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/arun664__/)
 [![Medium link](https://img.shields.io/badge/-medium.com/@arun664-black.svg?&style=flat&logo=medium&logoColor=white)](https://medium.com/@arun664)
@@ -21,7 +20,7 @@
 <!---------------------------------------------------------- About Me---------------------------------------------------->
 <div align="center">
   <h2>About Me</h2>
-  <p>I am Arun Kumar M, recently graduated Bachelor of Engineering in Computer Science [2020]. I am a tech enthusiast with a passion for learning and sharing my knowledge with others. </p> 
+  <p>I am a tech enthusiast with a passion for learning and sharing my knowledge with others. </p> 
   <p>Besides programming, I love interacting with the different communities. </p>
 </div>
 <!-------------------------------------------------------Tools and Technologies----------------------------------------->
@@ -39,11 +38,14 @@
 ![Express.js](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Heroku](https://img.shields.io/badge/-Heroku-232F7E?style=flat-square&logo=heroku&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-007fff?style=flat-square&logo=microsoftazure&logoColor=white)
+
 
 <!-------------------------------------------------------------Licenses & Certification	---------------------------------------->
 <h2>Licenses & Certifications</h2>
-
+  
+  * [Azure Fundamentals (AZ900)](https://www.credly.com/badges/596cec7c-5da3-4b1f-974b-045d29de7d52)
+  * [Azure Developer Associate (AZ204)](https://www.credly.com/badges/352ee377-5d03-4bde-a9ea-1994ff115a78)
   * [Full Stack Web Development with React Specialization](https://coursera.org/share/f1565c994ba0266781db8a68d28a5eb0)
   * [Blockchain Specialization ](https://coursera.org/share/ad56e7fc6a410e86b73039ac42eabd81)
   * [Introduction to Git & Github ](https://coursera.org/share/f462e4d8faec4bc4c08ed73791bd5993)
