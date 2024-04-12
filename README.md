@@ -44,8 +44,8 @@
 <!-------------------------------------------------------------Licenses & Certification	---------------------------------------->
 <h2>Licenses & Certifications</h2>
   
-  * [Azure Fundamentals (AZ900)](https://www.credly.com/badges/596cec7c-5da3-4b1f-974b-045d29de7d52)
-  * [Azure Developer Associate (AZ204)](https://www.credly.com/badges/352ee377-5d03-4bde-a9ea-1994ff115a78)
+  * [Azure Fundamentals (AZ900)](https://learn.microsoft.com/api/credentials/share/en-us/arun664/AA39FC7D78554466?sharingId=1EA4B35BD34F21E3)
+  * [Azure Developer Associate (AZ204)](https://learn.microsoft.com/api/credentials/share/en-us/arun664/B73875A6309E2A0C?sharingId=1EA4B35BD34F21E3)
   * [Full Stack Web Development with React Specialization](https://coursera.org/share/f1565c994ba0266781db8a68d28a5eb0)
   * [Blockchain Specialization ](https://coursera.org/share/ad56e7fc6a410e86b73039ac42eabd81)
   * [Introduction to Git & Github ](https://coursera.org/share/f462e4d8faec4bc4c08ed73791bd5993)
