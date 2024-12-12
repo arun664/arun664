@@ -9,10 +9,8 @@
 <!----------------------------------------------------Social links------------------------------------------->
 
 <div align="center">
-
-[![Twitter Link](https://img.shields.io/twitter/follow/arun664__?color=1DA1F2&label=%40arun664__&logo=Twitter&style=flat)](https://twitter.com/arun664__)
+  
 [![LinkedIn Link](https://img.shields.io/badge/linkedin/in/arun664%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/arun664/)
-[![Instagram Link](https://img.shields.io/badge/instagram.com/arun664__%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/arun664__/)
 [![Medium link](https://img.shields.io/badge/-medium.com/@arun664-black.svg?&style=flat&logo=medium&logoColor=white)](https://medium.com/@arun664)
 </div>
 
@@ -31,11 +29,13 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET%206.0-blueviolet)
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
+![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![React](https://img.shields.io/badge/-react-45b8d8?style=flat-square&logo=react&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=flat-square)
+![Next.js](https://img.shields.io/badge/NextJs-000000?style=flat&logo=next.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-007fff?style=flat-square&logo=microsoftazure&logoColor=white)
