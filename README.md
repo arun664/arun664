@@ -3,7 +3,7 @@
   <h1>Hi there, I'm <a href="https://www.linkedin.com/in/arun664/" target="_blank">Arun Kumar M</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 <div align="center">
-  <h3>💻 Computer Science Graduate Student | :earth_asia: Denton, Texas <h3>
+  <h3>💻 Computer Science Grad @ UNT | :earth_asia: Dallas, Texas <h3>
 </div>
 
 <!----------------------------------------------------Social links------------------------------------------->
